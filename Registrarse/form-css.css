@@ -1,0 +1,64 @@
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  font: 1.3rem sans-serif;
+  padding: 0.5em;
+  margin: 0;
+  background: #222;
+}
+
+form {
+  position: relative;
+  width: 740px;
+  height: 498px;
+  margin: 0 auto;
+  padding: 1em;
+  box-sizing: border-box;
+  background: rgb(230, 226, 226);
+}
+
+h1 {
+  font: 1em "typewriter", monospace;
+  align-self: end;
+  align-content: center;
+  padding: 0.5em;
+  color: white;
+  text-align: center;
+}
+
+
+
+
+
+nav {
+  position: sticky;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+  height: 50px;
+  box-shadow: 7px 5px 20px -6px rgb(87, 86, 86);
+}
+body {
+  width: 80%;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+}
+li {
+  display: inline;
+  margin: 10px auto;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(0, 47, 255);
+  font-weight: bold;
+  text-shadow: #ccc 1px 0 10px;
+} 

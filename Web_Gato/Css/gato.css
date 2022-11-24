@@ -1,0 +1,117 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  width: 80%;
+}
+nav {
+  position: sticky;
+  top: 0px;
+  background-color: rgb(255, 255, 255);
+  height: 50px;
+  box-shadow: 7px 5px 20px -6px rgb(87, 86, 86);
+}
+ul {
+  display: flex;
+  justify-content: center;
+}
+li {
+  display: inline;
+  margin: 10px auto;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  font-weight: bold;
+  text-shadow: #ccc 1px 0 10px;
+}
+header {
+  height: 150px;
+}
+header img {
+  height: 150px;
+}
+
+.logo {
+  width: 550px;
+  height: 150px;
+  display: flex;
+}
+.logo h2 {
+  margin-top: 10px;
+  font-family: "Fasthand", cursive;
+  font-size: 70px;
+}
+.contain-box {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px 0;
+}
+h3 {
+  padding: 10px 0px;
+}
+.intro {
+  height: 200px;
+  padding: 30px 50px;
+}
+
+.intro p {
+  padding: 10px 0px;
+}
+.button-box {
+  padding: 0 auto;
+  text-align: center;
+}
+button {
+  background-color: transparent;
+  border: solid 1px black;
+  height: 30px;
+  width: 100px;
+  transition: 0.3s;
+}
+h5 {
+  padding: 5px 0px;
+  font-size: 16px;
+}
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 7px 5px 20px -6px rgb(87, 86, 86);
+  border-radius: 10px;
+  transition: all 0.3s;
+}
+.box:hover {
+  transform: scale(1.1);
+}
+.box img {
+  width: 100%;
+}
+.description-box {
+  width: 400px;
+  height: 350px;
+  padding: 20px;
+}
+button:hover {
+  background-color: black;
+  color: white;
+  border-color: red;
+}
+h4 {
+  color: white;
+  text-align: center;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  height: 150px;
+  background-color: black;
+  box-shadow: 7px 5px 20px -6px rgb(87, 86, 86);
+}

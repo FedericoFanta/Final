@@ -1,0 +1,7 @@
+
+    Nombre: pepeeee
+    Apellido: pape
+    Contraseña: 23432
+    Sexo: hombre
+    Dni: 4234
+    
