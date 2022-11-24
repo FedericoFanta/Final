@@ -1,7 +1,0 @@
-
-    Nombre: fefdsfd
-    Apellido: dsfdsfds
-    Contraseña: 42342342
-    Sexo: hombre
-    Dni: 242342
-    

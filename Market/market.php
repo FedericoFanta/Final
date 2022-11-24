@@ -19,7 +19,7 @@
         <ul>
           <li><a href="../Web_Gato/gato.php"> Home</a></li>
           <li><a href="market.php"> Market</a></li>
-          <li><a href="">¿Qué es cosa de gatos?</a></li>
+          <li><a href="../QuienesSomos/quienessomos.php">¿Qué es cosa de gatos?</a></li>
           <li><a href="../Registrarse/form.php"> Registrarse </a></li>
         </ul>
     </nav>

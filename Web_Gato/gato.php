@@ -20,7 +20,7 @@
       <ul>
         <li><a href="gato.php"> Home</a></li>
         <li><a href="../Market/market.php"> Market</a></li>
-        <li><a href="">¿Qué es cosa de gatos?</a></li>
+        <li><a href="../QuienesSomos/quienessomos.php">¿Qué es cosa de gatos?</a></li>
         <li><a href="../Registrarse/form.php"> Registrarse</a></li>
       </ul>
     </nav>
@@ -35,7 +35,7 @@
         <h3>¿Que le regalo a mi Gato?</h3>
         <p>
           ¿Estás buscando el mejor regalo para tu gato? Esta selección está
-          pensada para que encuentres el regalo perfecto para tu minino. ¿Qué
+          pensada para que encuentres el regalo perfecto para tu gato. ¿Qué
           puedes comprar a un gato para hacerlo feliz? Combina cualquiera de
           estas propuestas con amor y cariño, y disfruta de una ocasión
           especial: Navidades, cumpleaños, el Día del Gato o cualquier día que

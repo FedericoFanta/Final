@@ -1,7 +1,0 @@
-
-    Nombre: dsfsf
-    Apellido: dsfsd
-    Contraseña: dsfsdf
-    Sexo: Masculino
-    Dni: 32432
-    

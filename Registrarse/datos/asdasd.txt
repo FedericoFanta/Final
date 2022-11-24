@@ -1,7 +1,0 @@
-
-    Nombre: asdsad
-    Apellido: asdasd
-    Contraseña: 2332432
-    Sexo: hombre
-    Dni: 23423
-    
