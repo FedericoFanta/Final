@@ -54,7 +54,7 @@ if (isset($_POST['enviar'])) {
 
     fclose($archivo); //cierra el archivo
 
-    header("Location: ../Web_Gato/gato.php");
+    header("Location: confirmado.php");
 }
 
 

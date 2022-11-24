@@ -7,6 +7,22 @@
     <title>Registro completo</title>
 </head>
 <body>
+
+    <nav>
+      <ul>
+        <li><a href="../Web_Gato/gato.php"> Home</a></li>
+        <li><a href="../Market/market.php"> Market</a></li>
+        <li><a href="">¿Qué es cosa de gatos?</a></li>
+        <li><a href="../Registrarse/form.php"> Registrarse</a></li>
+      </ul>
+    </nav>
+
+    <h1>
+        Se a registrado con exito!!!
+    </h1>
+
+
+
     
 </body>
 </html>
