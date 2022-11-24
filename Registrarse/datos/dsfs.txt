@@ -1,0 +1,7 @@
+
+    Nombre: dfsd
+    Apellido: dsfs
+    Contraseña: dsfsdfs
+    Sexo: hombre
+    Dni: 234324
+    
