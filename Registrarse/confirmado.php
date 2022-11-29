@@ -15,7 +15,7 @@
 
     <nav>
       <ul>
-        <li><a href="../Web_Gato/gato.php"> Home</a></li>
+        <li><a href="../Web_Gato/index.php"> Home</a></li>
         <li><a href="../Market/market.php"> Market</a></li>
         <li><a href="">¿Qué es cosa de gatos?</a></li>
         <li><a href="../Registrarse/form.php"> Registrarse</a></li>
@@ -31,7 +31,7 @@
     
 
     <?php
-    header( "refresh:5;url=../Web_Gato/gato.php" ); //para redireccionar en 5segundos
+    header( "refresh:5;url=../Web_Gato/index.php" ); //para redireccionar en 5segundos
     ?>
 
 
